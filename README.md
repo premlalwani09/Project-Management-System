@@ -54,6 +54,18 @@ The project includes both unit tests and integration tests.
 - **Framework:** SpringBootTest and MockMvc
 - **Execution:** Run `mvn test`
 
+
+## Swagger API Documentation
+Swagger provides a user-friendly interface to interact with the API endpoints. It is automatically generated and kept up-to-date with the application's code.
+
+### Access Swagger UI
+1. Ensure the application is running.
+2. Open your web browser and navigate to:
+   http://localhost:8080/swagger-ui.html
+
+Here, you can explore and test the API endpoints directly from the browser.
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues if you encounter any bugs or have suggestions for improvements.
