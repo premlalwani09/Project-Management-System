@@ -22,10 +22,10 @@ public class Project {
     @NonNull
     private String description;
 
-//    @NonNull
+    @NonNull
     private LocalDate startDate;
 
-//    @NonNull
+    @NonNull
     private LocalDate endDate;
 
     // Constructors, getters, and setters
